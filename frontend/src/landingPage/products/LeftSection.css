@@ -1,0 +1,6 @@
+.transition-hover img {
+  transition: transform 0.2s ease-in-out;
+}
+.transition-hover:hover img {
+  transform: translateY(-3px); /* Subtle lift on hover */
+}

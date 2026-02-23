@@ -1,0 +1,18 @@
+#supportHero a {
+    transition: opacity 0.2s ease-in-out;
+}
+
+#supportHero a:hover {
+    opacity: 0.8;
+}
+
+#supportHero input::placeholder {
+    color: #999;
+    font-size: 0.95rem;
+}
+
+/* Adds a subtle focus effect to the search bar */
+#supportHero input:focus {
+    box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.2);
+    outline: none;
+}

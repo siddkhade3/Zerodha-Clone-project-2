@@ -1,0 +1,16 @@
+        .transition-up {
+          transition: transform 0.3s ease;
+        }
+        .transition-up:hover {
+          transform: translateY(-10px);
+        }
+        .hover-link {
+          transition: color 0.2s ease;
+        }
+        .hover-link:hover {
+          color: #0d6efd !important;
+          text-decoration: underline !important;
+        }
+        .leading-relaxed {
+          line-height: 1.7;
+        }

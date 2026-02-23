@@ -1,0 +1,14 @@
+        .ticket-card {
+          transition: transform 0.2s ease, box-shadow 0.2s ease;
+          border-radius: 8px;
+        }
+        .ticket-card:hover {
+          background-color: #f7f5f5;
+        }
+        .ticket-card a:hover {
+          color: #222 !important;
+          text-decoration: underline !important;
+        }
+        .ticket-card h4 i {
+          font-size: 1.2rem;
+        }
