@@ -1,6 +1,13 @@
 # Zerodha Clone
 
 A Zerodha-inspired trading platform clone built to understand how real-world fintech applications work. This project focuses on authentication, stock trading flow, and frontend–backend integration.
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20163741.png)
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20164026.png)
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20164034.png)
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20164043.png)
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20164139.png)
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20164149.png)
+![image alt](https://github.com/siddkhade3/Zerodha-Clone-project-2/blob/6230a34e19c22100ad91c0cea019759d24a82e83/Screenshot%202026-03-05%20164202.png)
 
 
 
