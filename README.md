@@ -2,7 +2,7 @@
 
 A Zerodha-inspired trading platform clone built to understand how real-world fintech applications work. This project focuses on authentication, stock trading flow, and frontend–backend integration.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -23,17 +23,6 @@ A Zerodha-inspired trading platform clone built to understand how real-world fin
 * Order history tracking
 * Clean and responsive landing page
 
----
-
-## 📚 What I Learned
-
-* Integrating **frontend and backend** in a full-stack application
-* Implementing **authentication flow** end to end
-* Performing **CRUD operations** at a more complex, real-world level
-* Managing application state and API calls using **React Query**
-* Structuring a fintech-style backend logic
-
----
 
 ## 🚀 How It Can Be Improved
 
@@ -57,15 +46,6 @@ Run in development mode:
 ```bash
 npm run dev
 ```
-
----
-
-## 📸 Screenshot
-
-<img width="939" height="434" alt="image" src="https://github.com/user-attachments/assets/4cf7badd-e386-4b8c-a087-81290d699abb" />
-
-
----
 
 ## 📬 Contact
 
